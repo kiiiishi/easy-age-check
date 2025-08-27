@@ -1,2 +1,2 @@
-# easy-age-check
+# easy-age-checker
 イベント受付での年齢確認を簡単に行うためのシンプルなWebページ
