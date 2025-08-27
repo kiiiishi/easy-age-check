@@ -1,4 +1,4 @@
-# Easy Age Checker
+
 
 モダンな技術スタックを使用した、美しく高機能な年齢確認ページアプリケーションです。
 
@@ -191,3 +191,4 @@ npm run lint     # ESLintによるコードチェック
 ---
 
 © 2024 Easy Age Checker. All rights reserved.
+
